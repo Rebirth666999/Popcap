@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VisualStudioProjects\\\u6211\u7684\u690D\u7269\u5927\u6218\u50F5\u5C38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5DF981-CC74-4F3C-A609-282A6F1D7415}|\u6211\u7684\u690D\u7269\u5927\u6218\u50F5\u5C38.vcxproj|F:\\VisualStudioProjects\\\u6211\u7684\u690D\u7269\u5927\u6218\u50F5\u5C38\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB5DF981-CC74-4F3C-A609-282A6F1D7415}|\u6211\u7684\u690D\u7269\u5927\u6218\u50F5\u5C38.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\VisualStudioProjects\\\u6211\u7684\u690D\u7269\u5927\u6218\u50F5\u5C38\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "F:\\VisualStudioProjects\\\u6211\u7684\u690D\u7269\u5927\u6218\u50F5\u5C38\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAAAEoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-07T10:42:05.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
